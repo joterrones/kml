@@ -1,0 +1,1429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="MonitoreoSupervicion_1" id="MonitoreoSupervicion_1">
+            <SimpleField type="int" name="n_idins_instalacion"/>
+            <SimpleField type="string" name="dep"/>
+            <SimpleField type="string" name="prov"/>
+            <SimpleField type="string" name="dis"/>
+            <SimpleField type="string" name="cp"/>
+            <SimpleField type="string" name="persona"/>
+            <SimpleField type="string" name="c_codigo"/>
+            <SimpleField type="int" name="n_idver_instalacion"/>
+            <SimpleField type="string" name="c_latitud"/>
+            <SimpleField type="string" name="c_longitud"/>
+            <SimpleField type="float" name="n_altitud"/>
+            <SimpleField type="string" name="dni"/>
+            <SimpleField type="float" name="n_precision"/>
+            <SimpleField type="string" name="d_fecha"/>
+            <SimpleField type="string" name="tecnico"/>
+            <SimpleField type="string" name="rer"/>
+            <SimpleField type="string" name="tienefotos"/>
+            <SimpleField type="string" name="totfotos"/>
+            <SimpleField type="int" name="estadofoto"/>
+        </Schema>
+        <Folder>
+            <name>MonitoreoSupervicion</name>
+            <Placemark id="MonitoreoSupervicion.1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">32</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CCOTA PATJA</SimpleData>
+                        <SimpleData name="persona">HIRMA SOSA MERMA</SimpleData>
+                        <SimpleData name="c_codigo">00042570-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">1</SimpleData>
+                        <SimpleData name="c_latitud">-16.007583333333333</SimpleData>
+                        <SimpleData name="c_longitud">-69.97504</SimpleData>
+                        <SimpleData name="n_altitud">3890.5</SimpleData>
+                        <SimpleData name="dni">01279942</SimpleData>
+                        <SimpleData name="n_precision">7.6</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JUAN CALSIN CHAIÑA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.97504,-16.007583333333333</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">29</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CCOTA PATJA</SimpleData>
+                        <SimpleData name="persona">JESUS QUISPE CRUZ</SimpleData>
+                        <SimpleData name="c_codigo">00042639-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">2</SimpleData>
+                        <SimpleData name="c_latitud">-16.029651666666666</SimpleData>
+                        <SimpleData name="c_longitud">-69.97894500000001</SimpleData>
+                        <SimpleData name="n_altitud">3906.8</SimpleData>
+                        <SimpleData name="dni">01259784</SimpleData>
+                        <SimpleData name="n_precision">2.6</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JHON MENDOZA CUTIPA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.97894500000001,-16.029651666666666</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">30</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CCOTA PATJA</SimpleData>
+                        <SimpleData name="persona">ELVIRA RAMOS DE VARGAS</SimpleData>
+                        <SimpleData name="c_codigo">00042634-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">3</SimpleData>
+                        <SimpleData name="c_latitud">-16.033833333333334</SimpleData>
+                        <SimpleData name="c_longitud">-69.97696833333333</SimpleData>
+                        <SimpleData name="n_altitud">3906.5</SimpleData>
+                        <SimpleData name="dni">01261349</SimpleData>
+                        <SimpleData name="n_precision">1.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JHON MENDOZA CUTIPA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.97696833333333,-16.033833333333334</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">779</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CUTIMBO</SimpleData>
+                        <SimpleData name="persona">FELICIANO ARMANDO FUENTES CHECALLA</SimpleData>
+                        <SimpleData name="c_codigo">00042615-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">4</SimpleData>
+                        <SimpleData name="c_latitud">-16.008718333333334</SimpleData>
+                        <SimpleData name="c_longitud">-70.00655499999999</SimpleData>
+                        <SimpleData name="n_altitud">3913.2</SimpleData>
+                        <SimpleData name="dni">41012658</SimpleData>
+                        <SimpleData name="n_precision">1.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JHON MENDOZA CUTIPA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.00655499999999,-16.008718333333334</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">25</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CCOTA PATJA</SimpleData>
+                        <SimpleData name="persona">ARMANDINA ESTHER AMACHI DE QUISPE</SimpleData>
+                        <SimpleData name="c_codigo">00042575-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">5</SimpleData>
+                        <SimpleData name="c_latitud">-16.0034547948129</SimpleData>
+                        <SimpleData name="c_longitud">-69.97819695820394</SimpleData>
+                        <SimpleData name="n_altitud">3932.7234</SimpleData>
+                        <SimpleData name="dni">01261085</SimpleData>
+                        <SimpleData name="n_precision">4.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">ALAIN MUÑOZ APAZA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.97819695820394,-16.0034547948129</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">41</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CCOTA PATJA</SimpleData>
+                        <SimpleData name="persona">GREGORIO FELICIANO RAMOS VILCA</SimpleData>
+                        <SimpleData name="c_codigo">00042423-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">6</SimpleData>
+                        <SimpleData name="c_latitud">-16.029216541769635</SimpleData>
+                        <SimpleData name="c_longitud">-69.97781411948573</SimpleData>
+                        <SimpleData name="n_altitud">3942.2239</SimpleData>
+                        <SimpleData name="dni">01284605</SimpleData>
+                        <SimpleData name="n_precision">3.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">ALAIN MUÑOZ APAZA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.97781411948573,-16.029216541769635</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">28</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CCOTA PATJA</SimpleData>
+                        <SimpleData name="persona">TIMOTEA QUISPE CHOQUE</SimpleData>
+                        <SimpleData name="c_codigo">00042627-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">7</SimpleData>
+                        <SimpleData name="c_latitud">-16.029623585469157</SimpleData>
+                        <SimpleData name="c_longitud">-69.97899163678773</SimpleData>
+                        <SimpleData name="n_altitud">3941.7332</SimpleData>
+                        <SimpleData name="dni">01260527</SimpleData>
+                        <SimpleData name="n_precision">5.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JEAN CASTILLO ALEJO</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.97899163678773,-16.029623585469157</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">38</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CCOTA PATJA</SimpleData>
+                        <SimpleData name="persona">ALEX ARTURO FLORES SOSA</SimpleData>
+                        <SimpleData name="c_codigo">00042564-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">8</SimpleData>
+                        <SimpleData name="c_latitud">-16.0114</SimpleData>
+                        <SimpleData name="c_longitud">-69.9721</SimpleData>
+                        <SimpleData name="n_altitud">0.0</SimpleData>
+                        <SimpleData name="dni">01301410</SimpleData>
+                        <SimpleData name="n_precision">0.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JEAN CASTILLO ALEJO</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.9721,-16.0114</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">43</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CCOTA PATJA</SimpleData>
+                        <SimpleData name="persona">CLEMENTINA LUCRECIA ASQUI VDA.DE RAMOS</SimpleData>
+                        <SimpleData name="c_codigo">00042636-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">9</SimpleData>
+                        <SimpleData name="c_latitud">-16.036658881270025</SimpleData>
+                        <SimpleData name="c_longitud">-69.98291938030512</SimpleData>
+                        <SimpleData name="n_altitud">3945.0422</SimpleData>
+                        <SimpleData name="dni">01259390</SimpleData>
+                        <SimpleData name="n_precision">5.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JEAN CASTILLO ALEJO</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.98291938030512,-16.036658881270025</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.10">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">44</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CCOTA PATJA</SimpleData>
+                        <SimpleData name="persona">CIRIACO QUISPE QUENTA</SimpleData>
+                        <SimpleData name="c_codigo">00042638-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">10</SimpleData>
+                        <SimpleData name="c_latitud">-16.03765598991651</SimpleData>
+                        <SimpleData name="c_longitud">-69.98483143928897</SimpleData>
+                        <SimpleData name="n_altitud">3935.2922</SimpleData>
+                        <SimpleData name="dni">01849672</SimpleData>
+                        <SimpleData name="n_precision">5.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JEAN CASTILLO ALEJO</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.98483143928897,-16.03765598991651</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.11">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">780</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CUTIMBO</SimpleData>
+                        <SimpleData name="persona">VILIRIA MAMANI QUISPE</SimpleData>
+                        <SimpleData name="c_codigo">00042620-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">11</SimpleData>
+                        <SimpleData name="c_latitud">-16.008533780119418</SimpleData>
+                        <SimpleData name="c_longitud">-70.0065396414797</SimpleData>
+                        <SimpleData name="n_altitud">3942.0667</SimpleData>
+                        <SimpleData name="dni">41245849</SimpleData>
+                        <SimpleData name="n_precision">5.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JEAN CASTILLO ALEJO</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.0065396414797,-16.008533780119418</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.12">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">31</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CCOTA PATJA</SimpleData>
+                        <SimpleData name="persona">VALENTINA ARUQUIPA CARRASCO</SimpleData>
+                        <SimpleData name="c_codigo">00042474-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">12</SimpleData>
+                        <SimpleData name="c_latitud">-16.02549797</SimpleData>
+                        <SimpleData name="c_longitud">-69.97591886</SimpleData>
+                        <SimpleData name="n_altitud">3945.0</SimpleData>
+                        <SimpleData name="dni">01261158</SimpleData>
+                        <SimpleData name="n_precision">3.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">YUMEY PARI SALAZAR</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.97591886,-16.02549797</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.13">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">40</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CCOTA PATJA</SimpleData>
+                        <SimpleData name="persona">ELENA ILDA ASENCIO VDA.DE TIQUILLOCA</SimpleData>
+                        <SimpleData name="c_codigo">00042626-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">13</SimpleData>
+                        <SimpleData name="c_latitud">-16.03279822</SimpleData>
+                        <SimpleData name="c_longitud">-69.97396789</SimpleData>
+                        <SimpleData name="n_altitud">3945.0</SimpleData>
+                        <SimpleData name="dni">01259154</SimpleData>
+                        <SimpleData name="n_precision">3.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">YUMEY PARI SALAZAR</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.97396789,-16.03279822</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.14">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">45</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CCOTA PATJA</SimpleData>
+                        <SimpleData name="persona">JULIA EULALIA FIGUEROA DE LAURA</SimpleData>
+                        <SimpleData name="c_codigo">00042625-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">14</SimpleData>
+                        <SimpleData name="c_latitud">-16.03687571</SimpleData>
+                        <SimpleData name="c_longitud">-69.98207683</SimpleData>
+                        <SimpleData name="n_altitud">3947.0</SimpleData>
+                        <SimpleData name="dni">01262095</SimpleData>
+                        <SimpleData name="n_precision">3.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">YUMEY PARI SALAZAR</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.98207683,-16.03687571</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.15">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">1027</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">ACORA</SimpleData>
+                        <SimpleData name="cp">HUAYCHANI</SimpleData>
+                        <SimpleData name="persona">EDWIN MILTON AYNA INQUILLA</SimpleData>
+                        <SimpleData name="c_codigo">00040400-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">15</SimpleData>
+                        <SimpleData name="c_latitud">-16.10214169</SimpleData>
+                        <SimpleData name="c_longitud">-69.73503592</SimpleData>
+                        <SimpleData name="n_altitud">4012.0</SimpleData>
+                        <SimpleData name="dni">44924132</SimpleData>
+                        <SimpleData name="n_precision">4.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">SADDAM DIAZ GOMEZ</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.73503592,-16.10214169</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.16">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">1034</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">ACORA</SimpleData>
+                        <SimpleData name="cp">HUAYCHANI</SimpleData>
+                        <SimpleData name="persona">ANTONIA CHURA DE HUANCA</SimpleData>
+                        <SimpleData name="c_codigo">00041060-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">16</SimpleData>
+                        <SimpleData name="c_latitud">-16.10127925</SimpleData>
+                        <SimpleData name="c_longitud">-69.73898891</SimpleData>
+                        <SimpleData name="n_altitud">4055.0</SimpleData>
+                        <SimpleData name="dni">01237202</SimpleData>
+                        <SimpleData name="n_precision">6.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">SADDAM DIAZ GOMEZ</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.73898891,-16.10127925</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.17">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">1061</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">ACORA</SimpleData>
+                        <SimpleData name="cp">HUAYCHANI</SimpleData>
+                        <SimpleData name="persona">MANUEL DIAZ ILLA</SimpleData>
+                        <SimpleData name="c_codigo">00040394-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">17</SimpleData>
+                        <SimpleData name="c_latitud">-16.09839461</SimpleData>
+                        <SimpleData name="c_longitud">-69.73969964</SimpleData>
+                        <SimpleData name="n_altitud">4034.0</SimpleData>
+                        <SimpleData name="dni">01233530</SimpleData>
+                        <SimpleData name="n_precision">3.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">SADDAM DIAZ GOMEZ</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.73969964,-16.09839461</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.18">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">405</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">ACORA</SimpleData>
+                        <SimpleData name="cp">HUAYCHANI</SimpleData>
+                        <SimpleData name="persona">JACINTO VILCA HUANCA</SimpleData>
+                        <SimpleData name="c_codigo">00040201-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">18</SimpleData>
+                        <SimpleData name="c_latitud">-16.089971666666667</SimpleData>
+                        <SimpleData name="c_longitud">-69.74252333333334</SimpleData>
+                        <SimpleData name="n_altitud">4022.8</SimpleData>
+                        <SimpleData name="dni">01290479</SimpleData>
+                        <SimpleData name="n_precision">1.7</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">MARY SANIZO ISCARRA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.74252333333334,-16.089971666666667</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.19">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">406</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">ACORA</SimpleData>
+                        <SimpleData name="cp">HUAYCHANI</SimpleData>
+                        <SimpleData name="persona">FRANCISCO MAMANI ILLA</SimpleData>
+                        <SimpleData name="c_codigo">00041098-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">19</SimpleData>
+                        <SimpleData name="c_latitud">-16.103895</SimpleData>
+                        <SimpleData name="c_longitud">-69.73657666666666</SimpleData>
+                        <SimpleData name="n_altitud">3999.6</SimpleData>
+                        <SimpleData name="dni">01240119</SimpleData>
+                        <SimpleData name="n_precision">1.3</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">MARY SANIZO ISCARRA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.73657666666666,-16.103895</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.20">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">408</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">ACORA</SimpleData>
+                        <SimpleData name="cp">HUAYCHANI</SimpleData>
+                        <SimpleData name="persona">MARCELINO MAMANI APAZA</SimpleData>
+                        <SimpleData name="c_codigo">00040393-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">20</SimpleData>
+                        <SimpleData name="c_latitud">-16.1056</SimpleData>
+                        <SimpleData name="c_longitud">-69.7367</SimpleData>
+                        <SimpleData name="n_altitud">0.0</SimpleData>
+                        <SimpleData name="dni">01237201</SimpleData>
+                        <SimpleData name="n_precision">0.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">MARY SANIZO ISCARRA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.7367,-16.1056</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.21">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">1030</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">ACORA</SimpleData>
+                        <SimpleData name="cp">HUAYCHANI</SimpleData>
+                        <SimpleData name="persona">ROSA CARMELA MAMANI CHURA</SimpleData>
+                        <SimpleData name="c_codigo">00041069-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">21</SimpleData>
+                        <SimpleData name="c_latitud">-16.106006666666666</SimpleData>
+                        <SimpleData name="c_longitud">-69.73568333333333</SimpleData>
+                        <SimpleData name="n_altitud">3987.8</SimpleData>
+                        <SimpleData name="dni">01243992</SimpleData>
+                        <SimpleData name="n_precision">3.3</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">MARY SANIZO ISCARRA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.73568333333333,-16.106006666666666</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.22">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">1035</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">ACORA</SimpleData>
+                        <SimpleData name="cp">HUAYCHANI</SimpleData>
+                        <SimpleData name="persona">LOURDES MARITZA DIAZ MAMANI</SimpleData>
+                        <SimpleData name="c_codigo">00041054-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">22</SimpleData>
+                        <SimpleData name="c_latitud">-16.10216</SimpleData>
+                        <SimpleData name="c_longitud">-69.738055</SimpleData>
+                        <SimpleData name="n_altitud">4010.7</SimpleData>
+                        <SimpleData name="dni">47236331</SimpleData>
+                        <SimpleData name="n_precision">1.8</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">MARY SANIZO ISCARRA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.738055,-16.10216</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.23">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">1059</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">ACORA</SimpleData>
+                        <SimpleData name="cp">HUAYCHANI</SimpleData>
+                        <SimpleData name="persona">JAIME CATACORA CHURA</SimpleData>
+                        <SimpleData name="c_codigo">00041071-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">23</SimpleData>
+                        <SimpleData name="c_latitud">-16.08987</SimpleData>
+                        <SimpleData name="c_longitud">-69.74284166666666</SimpleData>
+                        <SimpleData name="n_altitud">4035.0</SimpleData>
+                        <SimpleData name="dni">01242035</SimpleData>
+                        <SimpleData name="n_precision">1.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">MARY SANIZO ISCARRA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.74284166666666,-16.08987</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.24">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">1060</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">ACORA</SimpleData>
+                        <SimpleData name="cp">HUAYCHANI</SimpleData>
+                        <SimpleData name="persona">ELSA NATIVIDAD FLORES HUANCA</SimpleData>
+                        <SimpleData name="c_codigo">00040396-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">24</SimpleData>
+                        <SimpleData name="c_latitud">-16.090446666666665</SimpleData>
+                        <SimpleData name="c_longitud">-69.74278166666666</SimpleData>
+                        <SimpleData name="n_altitud">3985.0</SimpleData>
+                        <SimpleData name="dni">73378260</SimpleData>
+                        <SimpleData name="n_precision">2.9</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">MARY SANIZO ISCARRA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.74278166666666,-16.090446666666665</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.25">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">1058</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">ACORA</SimpleData>
+                        <SimpleData name="cp">HUAYCHANI</SimpleData>
+                        <SimpleData name="persona">VICENTE CATACORA LOPEZ</SimpleData>
+                        <SimpleData name="c_codigo">00055228-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">25</SimpleData>
+                        <SimpleData name="c_latitud">-16.09</SimpleData>
+                        <SimpleData name="c_longitud">-69.744</SimpleData>
+                        <SimpleData name="n_altitud">0.0</SimpleData>
+                        <SimpleData name="dni">01279989</SimpleData>
+                        <SimpleData name="n_precision">0.0</SimpleData>
+                        <SimpleData name="d_fecha">06/04/2017</SimpleData>
+                        <SimpleData name="tecnico">ALEX RODRIGUEZ CONDORI</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.744,-16.09</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.26">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">88</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PLATERIA</SimpleData>
+                        <SimpleData name="cp">CHUTANI</SimpleData>
+                        <SimpleData name="persona">SEVERO CUEVA NINA</SimpleData>
+                        <SimpleData name="c_codigo">00043542-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">26</SimpleData>
+                        <SimpleData name="c_latitud">-16.006115</SimpleData>
+                        <SimpleData name="c_longitud">-69.94445666666667</SimpleData>
+                        <SimpleData name="n_altitud">3890.3</SimpleData>
+                        <SimpleData name="dni">01207496</SimpleData>
+                        <SimpleData name="n_precision">2.9</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JUAN MONTUFAR CHATA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.94445666666667,-16.006115</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.27">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">89</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PLATERIA</SimpleData>
+                        <SimpleData name="cp">CHUTANI</SimpleData>
+                        <SimpleData name="persona">FELICIANA CAHUANA MAMANI</SimpleData>
+                        <SimpleData name="c_codigo">00043513-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">27</SimpleData>
+                        <SimpleData name="c_latitud">-16.007818333333333</SimpleData>
+                        <SimpleData name="c_longitud">-69.94417</SimpleData>
+                        <SimpleData name="n_altitud">3887.3</SimpleData>
+                        <SimpleData name="dni">01277207</SimpleData>
+                        <SimpleData name="n_precision">1.4</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JUAN MONTUFAR CHATA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.94417,-16.007818333333333</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.28">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">90</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PLATERIA</SimpleData>
+                        <SimpleData name="cp">CHUTANI</SimpleData>
+                        <SimpleData name="persona">MARIA FLORES DE SOSA</SimpleData>
+                        <SimpleData name="c_codigo">00042463-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">28</SimpleData>
+                        <SimpleData name="c_latitud">-16.007113333333333</SimpleData>
+                        <SimpleData name="c_longitud">-69.94347666666665</SimpleData>
+                        <SimpleData name="n_altitud">3896.6</SimpleData>
+                        <SimpleData name="dni">01278035</SimpleData>
+                        <SimpleData name="n_precision">2.9</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JUAN MONTUFAR CHATA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.94347666666665,-16.007113333333333</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.29">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">129</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PLATERIA</SimpleData>
+                        <SimpleData name="cp">RINCONADA</SimpleData>
+                        <SimpleData name="persona">MANUEL QUISPE MAMANI</SimpleData>
+                        <SimpleData name="c_codigo">00042464-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">29</SimpleData>
+                        <SimpleData name="c_latitud">-15.9674</SimpleData>
+                        <SimpleData name="c_longitud">-69.8835</SimpleData>
+                        <SimpleData name="n_altitud">0.0</SimpleData>
+                        <SimpleData name="dni">01278055</SimpleData>
+                        <SimpleData name="n_precision">0.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JUAN MONTUFAR CHATA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.8835,-15.9674</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.30">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">844</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PLATERIA</SimpleData>
+                        <SimpleData name="cp">HUILACAYA</SimpleData>
+                        <SimpleData name="persona">JUANA ROSA ARPASI VILCA</SimpleData>
+                        <SimpleData name="c_codigo">00043567-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">30</SimpleData>
+                        <SimpleData name="c_latitud">-16.01569</SimpleData>
+                        <SimpleData name="c_longitud">-69.94420833333334</SimpleData>
+                        <SimpleData name="n_altitud">3892.9</SimpleData>
+                        <SimpleData name="dni">42085831</SimpleData>
+                        <SimpleData name="n_precision">2.7</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JUAN MONTUFAR CHATA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.94420833333334,-16.01569</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.31">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">845</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PLATERIA</SimpleData>
+                        <SimpleData name="cp">HUILACAYA</SimpleData>
+                        <SimpleData name="persona">HILDA CANDELARIA MAMANI NINA DE MEDINA</SimpleData>
+                        <SimpleData name="c_codigo">00043573-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">31</SimpleData>
+                        <SimpleData name="c_latitud">-16.01616166666667</SimpleData>
+                        <SimpleData name="c_longitud">-69.94327333333334</SimpleData>
+                        <SimpleData name="n_altitud">3894.1</SimpleData>
+                        <SimpleData name="dni">01315693</SimpleData>
+                        <SimpleData name="n_precision">3.8</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JUAN MONTUFAR CHATA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.94327333333334,-16.01616166666667</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.32">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">846</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PLATERIA</SimpleData>
+                        <SimpleData name="cp">HUILACAYA</SimpleData>
+                        <SimpleData name="persona">MERIAN ROSMERI FLORES GOMEZ</SimpleData>
+                        <SimpleData name="c_codigo">00043597-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">32</SimpleData>
+                        <SimpleData name="c_latitud">-16.00425166666667</SimpleData>
+                        <SimpleData name="c_longitud">-69.91665166666667</SimpleData>
+                        <SimpleData name="n_altitud">3906.2</SimpleData>
+                        <SimpleData name="dni">70029604</SimpleData>
+                        <SimpleData name="n_precision">4.7</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JUAN MONTUFAR CHATA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.91665166666667,-16.00425166666667</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.33">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">851</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PLATERIA</SimpleData>
+                        <SimpleData name="cp">HUILACAYA</SimpleData>
+                        <SimpleData name="persona">ALFONSO CABRERA CRUZ</SimpleData>
+                        <SimpleData name="c_codigo">00040687-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">33</SimpleData>
+                        <SimpleData name="c_latitud">-16.015314999999998</SimpleData>
+                        <SimpleData name="c_longitud">-69.93619833333334</SimpleData>
+                        <SimpleData name="n_altitud">3914.2</SimpleData>
+                        <SimpleData name="dni">00476509</SimpleData>
+                        <SimpleData name="n_precision">1.2</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JUAN MONTUFAR CHATA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.93619833333334,-16.015314999999998</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.34">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">1872</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PLATERIA</SimpleData>
+                        <SimpleData name="cp">HUAYLLAHUECO AQUECHIA</SimpleData>
+                        <SimpleData name="persona">MICAELA SALAMANCA DE AROHUANCA</SimpleData>
+                        <SimpleData name="c_codigo">00040787-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">34</SimpleData>
+                        <SimpleData name="c_latitud">-16.059841666666667</SimpleData>
+                        <SimpleData name="c_longitud">-69.85096833333334</SimpleData>
+                        <SimpleData name="n_altitud">4027.7</SimpleData>
+                        <SimpleData name="dni">01246519</SimpleData>
+                        <SimpleData name="n_precision">4.8</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JUAN MONTUFAR CHATA</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.85096833333334,-16.059841666666667</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.35">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">174</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">LORIPONGO</SimpleData>
+                        <SimpleData name="persona">MANUELA HERMELINDA MAMANCHURA CASTRO</SimpleData>
+                        <SimpleData name="c_codigo">00043282-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">35</SimpleData>
+                        <SimpleData name="c_latitud">-15.85122339</SimpleData>
+                        <SimpleData name="c_longitud">-70.01936466</SimpleData>
+                        <SimpleData name="n_altitud">3880.0</SimpleData>
+                        <SimpleData name="dni">46895963</SimpleData>
+                        <SimpleData name="n_precision">3.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">ALEX DEZA PAUCAR</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.01936466,-15.85122339</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.36">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">179</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">LORIPONGO</SimpleData>
+                        <SimpleData name="persona">JUANA EMILIA CASTRO HUARACHA</SimpleData>
+                        <SimpleData name="c_codigo">00043276-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">36</SimpleData>
+                        <SimpleData name="c_latitud">-15.85122339</SimpleData>
+                        <SimpleData name="c_longitud">-70.01936466</SimpleData>
+                        <SimpleData name="n_altitud">3880.0</SimpleData>
+                        <SimpleData name="dni">01273983</SimpleData>
+                        <SimpleData name="n_precision">3.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">ALEX DEZA PAUCAR</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.01936466,-15.85122339</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.37">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">181</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">LORIPONGO</SimpleData>
+                        <SimpleData name="persona">FELICIA GOMEZ POMA</SimpleData>
+                        <SimpleData name="c_codigo">00042998-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">37</SimpleData>
+                        <SimpleData name="c_latitud">-15.85122339</SimpleData>
+                        <SimpleData name="c_longitud">-70.01936466</SimpleData>
+                        <SimpleData name="n_altitud">3880.0</SimpleData>
+                        <SimpleData name="dni">42375008</SimpleData>
+                        <SimpleData name="n_precision">3.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">ALEX DEZA PAUCAR</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.01936466,-15.85122339</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.38">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">178</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">LORIPONGO</SimpleData>
+                        <SimpleData name="persona">MARCIAL RAFAEL PAYE PEÑALOZA</SimpleData>
+                        <SimpleData name="c_codigo">00043279-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">38</SimpleData>
+                        <SimpleData name="c_latitud">-16.26869339532395</SimpleData>
+                        <SimpleData name="c_longitud">-70.14006339235496</SimpleData>
+                        <SimpleData name="n_altitud">4130.436</SimpleData>
+                        <SimpleData name="dni">01273483</SimpleData>
+                        <SimpleData name="n_precision">5.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">RENE MESTAS CHAMBI</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.14006339235496,-16.26869339532395</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.40">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">842</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">HUAYLLUMA</SimpleData>
+                        <SimpleData name="persona">JUANA NATIVIDAD ORTEGA MANZANO</SimpleData>
+                        <SimpleData name="c_codigo">00043085-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">40</SimpleData>
+                        <SimpleData name="c_latitud">-16.19110337905233</SimpleData>
+                        <SimpleData name="c_longitud">-70.11040011846994</SimpleData>
+                        <SimpleData name="n_altitud">4047.5217</SimpleData>
+                        <SimpleData name="dni">01275256</SimpleData>
+                        <SimpleData name="n_precision">5.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">RENE MESTAS CHAMBI</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.11040011846994,-16.19110337905233</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.41">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">172</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">LORIPONGO</SimpleData>
+                        <SimpleData name="persona">DOMITILA MAMANI HUARACHA</SimpleData>
+                        <SimpleData name="c_codigo">00043280-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">41</SimpleData>
+                        <SimpleData name="c_latitud">-16.2689469</SimpleData>
+                        <SimpleData name="c_longitud">-70.1396353</SimpleData>
+                        <SimpleData name="n_altitud">4147.5</SimpleData>
+                        <SimpleData name="dni">01300084</SimpleData>
+                        <SimpleData name="n_precision">2.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JHON MAQUERA YANQUI</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.1396353,-16.2689469</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.42">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">180</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">LORIPONGO</SimpleData>
+                        <SimpleData name="persona">PATRICIO LOPEZ RAMOS</SimpleData>
+                        <SimpleData name="c_codigo">00043277-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">42</SimpleData>
+                        <SimpleData name="c_latitud">-16.2685997</SimpleData>
+                        <SimpleData name="c_longitud">-70.1399339</SimpleData>
+                        <SimpleData name="n_altitud">4147.2</SimpleData>
+                        <SimpleData name="dni">01299852</SimpleData>
+                        <SimpleData name="n_precision">11.5</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JHON MAQUERA YANQUI</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.1399339,-16.2685997</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.43">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">843</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">HUAYLLUMA</SimpleData>
+                        <SimpleData name="persona">TOMASA TICONA RAMOS</SimpleData>
+                        <SimpleData name="c_codigo">00040938-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">43</SimpleData>
+                        <SimpleData name="c_latitud">-16.1910296</SimpleData>
+                        <SimpleData name="c_longitud">-70.1101925</SimpleData>
+                        <SimpleData name="n_altitud">4037.7</SimpleData>
+                        <SimpleData name="dni">01216291</SimpleData>
+                        <SimpleData name="n_precision">2.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JHON MAQUERA YANQUI</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.1101925,-16.1910296</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.44">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">110</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CUTIMBO</SimpleData>
+                        <SimpleData name="persona">TIBURCIA VICTORIA POMA MARON</SimpleData>
+                        <SimpleData name="c_codigo">00042611-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">44</SimpleData>
+                        <SimpleData name="c_latitud">-16.00170658</SimpleData>
+                        <SimpleData name="c_longitud">-69.99994995</SimpleData>
+                        <SimpleData name="n_altitud">3943.0</SimpleData>
+                        <SimpleData name="dni">01299720</SimpleData>
+                        <SimpleData name="n_precision">3.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">YUMEY PARI SALAZAR</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.99994995,-16.00170658</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.45">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">2032</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CUTIMBO</SimpleData>
+                        <SimpleData name="persona">FIDELA MARON DE ROMERO</SimpleData>
+                        <SimpleData name="c_codigo">00042600-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">45</SimpleData>
+                        <SimpleData name="c_latitud">-16.02114237</SimpleData>
+                        <SimpleData name="c_longitud">-69.98979117</SimpleData>
+                        <SimpleData name="n_altitud">3947.0</SimpleData>
+                        <SimpleData name="dni">01203564</SimpleData>
+                        <SimpleData name="n_precision">3.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">YUMEY PARI SALAZAR</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.98979117,-16.02114237</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.46">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">2033</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CUTIMBO</SimpleData>
+                        <SimpleData name="persona">JULIA TICONA CHOQUE</SimpleData>
+                        <SimpleData name="c_codigo">00042601-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">46</SimpleData>
+                        <SimpleData name="c_latitud">-16.01773145</SimpleData>
+                        <SimpleData name="c_longitud">-69.98304343</SimpleData>
+                        <SimpleData name="n_altitud">3941.0</SimpleData>
+                        <SimpleData name="dni">01307754</SimpleData>
+                        <SimpleData name="n_precision">3.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">YUMEY PARI SALAZAR</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.98304343,-16.01773145</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.47">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">35</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CCOTA PATJA</SimpleData>
+                        <SimpleData name="persona">JULIO CHANINI MERMA</SimpleData>
+                        <SimpleData name="c_codigo">00042628-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">47</SimpleData>
+                        <SimpleData name="c_latitud">-16.026217757833585</SimpleData>
+                        <SimpleData name="c_longitud">-69.97204198976462</SimpleData>
+                        <SimpleData name="n_altitud">3938.8696</SimpleData>
+                        <SimpleData name="dni">01254038</SimpleData>
+                        <SimpleData name="n_precision">5.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JEAN CASTILLO ALEJO</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.97204198976462,-16.026217757833585</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.48">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">42</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CCOTA PATJA</SimpleData>
+                        <SimpleData name="persona">CINTHIA YOHANA RAMOS ASQUI</SimpleData>
+                        <SimpleData name="c_codigo">00042475-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">48</SimpleData>
+                        <SimpleData name="c_latitud">-16.023994759801127</SimpleData>
+                        <SimpleData name="c_longitud">-69.97337611315642</SimpleData>
+                        <SimpleData name="n_altitud">3937.5708</SimpleData>
+                        <SimpleData name="dni">70316087</SimpleData>
+                        <SimpleData name="n_precision">5.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JEAN CASTILLO ALEJO</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.97337611315642,-16.023994759801127</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.49">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">108</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CUTIMBO</SimpleData>
+                        <SimpleData name="persona">NICOLASA MAMANI VDA.DE MAMANI</SimpleData>
+                        <SimpleData name="c_codigo">00042618-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">49</SimpleData>
+                        <SimpleData name="c_latitud">-16.00646204897964</SimpleData>
+                        <SimpleData name="c_longitud">-69.98308831463164</SimpleData>
+                        <SimpleData name="n_altitud">3943.537</SimpleData>
+                        <SimpleData name="dni">01267875</SimpleData>
+                        <SimpleData name="n_precision">5.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JULIO SANDOBAL AYQUE</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.98308831463164,-16.00646204897964</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.50">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">109</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CUTIMBO</SimpleData>
+                        <SimpleData name="persona">ROSALIA TICONA CHOQUE</SimpleData>
+                        <SimpleData name="c_codigo">00042606-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">50</SimpleData>
+                        <SimpleData name="c_latitud">-16.01592809995134</SimpleData>
+                        <SimpleData name="c_longitud">-69.98239737568731</SimpleData>
+                        <SimpleData name="n_altitud">3940.4634</SimpleData>
+                        <SimpleData name="dni">01208925</SimpleData>
+                        <SimpleData name="n_precision">5.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JULIO SANDOBAL AYQUE</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">7</SimpleData>
+                        <SimpleData name="totfotos">7</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.98239737568731,-16.01592809995134</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="MonitoreoSupervicion.51">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#MonitoreoSupervicion_1">
+                        <SimpleData name="n_idins_instalacion">777</SimpleData>
+                        <SimpleData name="dep">PUNO</SimpleData>
+                        <SimpleData name="prov">PUNO</SimpleData>
+                        <SimpleData name="dis">PICHACANI</SimpleData>
+                        <SimpleData name="cp">CUTIMBO</SimpleData>
+                        <SimpleData name="persona">PEDRO LEONARDO ROMERO MARON</SimpleData>
+                        <SimpleData name="c_codigo">00042596-S</SimpleData>
+                        <SimpleData name="n_idver_instalacion">51</SimpleData>
+                        <SimpleData name="c_latitud">-15.997660487041005</SimpleData>
+                        <SimpleData name="c_longitud">-70.0011395078386</SimpleData>
+                        <SimpleData name="n_altitud">3940.8977</SimpleData>
+                        <SimpleData name="dni">01324216</SimpleData>
+                        <SimpleData name="n_precision">5.0</SimpleData>
+                        <SimpleData name="d_fecha">07/04/2017</SimpleData>
+                        <SimpleData name="tecnico">JEAN CASTILLO ALEJO</SimpleData>
+                        <SimpleData name="rer">vivienda</SimpleData>
+                        <SimpleData name="tienefotos">4</SimpleData>
+                        <SimpleData name="totfotos">4</SimpleData>
+                        <SimpleData name="estadofoto">2</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.0011395078386,-15.997660487041005</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
